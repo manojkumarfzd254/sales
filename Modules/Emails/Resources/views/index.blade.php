@@ -1,0 +1,9 @@
+@extends('emails::layouts.master')
+
+@section('content')
+    <h1>Hello World</h1>
+
+    <p>
+        This view is loaded from module: {!! config('emails.name') !!}
+    </p>
+@endsection

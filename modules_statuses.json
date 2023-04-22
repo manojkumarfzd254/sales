@@ -1,0 +1,13 @@
+{
+    "Article": true,
+    "Tag": true,
+    "Comment": true,
+    "Testing": true,
+    "Components": true,
+    "Detail": true,
+    "Service": true,
+    "Department": true,
+    "Form": true,
+    "Emails": true,
+    "Profile": true
+}
